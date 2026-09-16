@@ -11,9 +11,12 @@ Sistema web para controle de estoque de pequenas empresas: cadastro de produtos,
 
 ## 👥 Equipe
 
-- **Tech Lead:** Anthony
-- **Desenvolvedor(a):** *(a definir)*
-- **Desenvolvedor(a):** *(a definir)*
+- **Tech Lead:** Anthony Castro
+- **QA Qualidade de software** *Rafael Santiago*
+- **Desenvolvedor backeend:** *Marcio R*
+- **Product owner** *Anderson*
+- **Desenvolvedor frontedn** *Gustavo Pignata*
+- **Desenvolcedor frontend** *Nicolas loredo*
 
 ## 🛠️ Tecnologias
 
