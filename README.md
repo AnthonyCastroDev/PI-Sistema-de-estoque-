@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Licença](https://img.shields.io/badge/licença-MIT-blue)
 
-## 📌 Sobre
+## 📌 Sobre-
 
 Sistema web para controle de estoque de pequenas empresas: cadastro de produtos, entradas/saídas e alertas de estoque baixo, substituindo planilhas manuais.
 
