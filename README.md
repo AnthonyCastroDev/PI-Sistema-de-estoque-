@@ -7,7 +7,7 @@
 
 ## 📌 Sobre-
 
-Sistema web para controle de estoque de pequenas empresas: cadastro de produtos, entradas/saídas e alertas de estoque baixo, substituindo planilhas manuais.
+Sistema web para controle de estoque de pequenas empresas: cadastro de produtos, entradas/saídas e alertas de estoque baixo, substituindo planilhas manuais .
 
 ## 👥 Equipe
 
