@@ -15,7 +15,7 @@ Sistema web para controle de estoque de pequenas empresas: cadastro de produtos,
 - **QA Qualidade de software** *Rafael Santiago*
 - **Desenvolvedor backeend:** *Marcio R*
 - **Product owner** *Anderson*
-- **Desenvolvedor frontedn** *Gustavo Pignata*
+- **Desenvolvedor frontend** *Gustavo Pignata*
 - **Desenvolcedor frontend** *Nicolas loredo*
 
 ## 🛠️ Tecnologias
