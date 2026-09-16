@@ -16,7 +16,7 @@ Sistema web para controle de estoque de pequenas empresas: cadastro de produtos,
 - **Desenvolvedor backeend:** *Marcio R*
 - **Product owner:** *Anderson*
 - **Desenvolvedor frontend:** *Gustavo Pignata*
-- **Desenvolcedor frontend:** *Nicolas loredo*
+- **Desenvolvedor frontend:** *Nicolas loredo*
 
 ## 🛠️ Tecnologias
 
