@@ -1,6 +1,6 @@
 # 📦 StockWise — Sistema de Gerenciamento de Estoque para Pequenas Empresas
 
-> Projeto Integrador — ADS | Fatec Araraquara — Engenharia de Software
+> Projeto Integrador — ADS | Fatec Araraquara
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Licença](https://img.shields.io/badge/licença-MIT-blue)
