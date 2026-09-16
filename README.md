@@ -22,38 +22,6 @@ Sistema web para controle de estoque de pequenas empresas: cadastro de produtos,
 **Banco de Dados:** SQL Server
 **Infra/Ferramentas:** Docker, GitHub Actions (CI), Swagger, xUnit
 
-## 🏗️ Arquitetura
-
-```
-StockWise/
-├── src/
-│   ├── StockWise.API/            # Endpoints
-│   ├── StockWise.Application/    # Regras de negócio
-│   ├── StockWise.Domain/         # Entidades
-│   └── StockWise.Infrastructure/ # Acesso a dados
-├── frontend/                     # Aplicação React
-└── tests/                        # Testes
-```
-
-## 🚀 Como Executar
-
-**Backend**
-```bash
-cd src/StockWise.API
-dotnet restore && dotnet run
-```
-
-**Frontend**
-```bash
-cd frontend
-npm install && npm run dev
-```
-
-**Banco (Docker)**
-```bash
-docker-compose up -d
-```
-
 ## 🌿 Git Workflow
 
 - `main` → estável | `develop` → integração | `feature/*` → desenvolvimento
