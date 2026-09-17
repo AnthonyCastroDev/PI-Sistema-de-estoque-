@@ -54,3 +54,10 @@ o auxilio da IA e o seu uso de forma inteligente ajuda a clarear as ideias e org
 demonstração de como está do desenvolvimento do front
 
 📥 **[Download do Projeto (.RAR)](https://github.com/user-attachments/files/32343805/Inventory.Management.System.zip)**
+
+## 🎨 Design & Protótipo
+
+O layout e os protótipos interativos deste projeto foram desenvolvidos no **Figma**.
+
+[![Ver no Figma](https://img.shields.io/badge/Figma-Acessar%20Layout-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/make/hsuQvTuVSJ5GzBijBitv2z/Inventory-Management-System?t=IGqIx3CwAppyWoBA-0)
+
